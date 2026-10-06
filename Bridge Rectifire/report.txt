@@ -1,0 +1,11 @@
+Plotted to 'D:\kicad\Bridge Rectifire\Gerber\Bridge Rectifire-F_Cu.gbr'.
+Plotted to 'D:\kicad\Bridge Rectifire\Gerber\Bridge Rectifire-B_Cu.gbr'.
+Plotted to 'D:\kicad\Bridge Rectifire\Gerber\Bridge Rectifire-F_Paste.gbr'.
+Plotted to 'D:\kicad\Bridge Rectifire\Gerber\Bridge Rectifire-B_Paste.gbr'.
+Plotted to 'D:\kicad\Bridge Rectifire\Gerber\Bridge Rectifire-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Bridge Rectifire\Gerber\Bridge Rectifire-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Bridge Rectifire\Gerber\Bridge Rectifire-F_Mask.gbr'.
+Plotted to 'D:\kicad\Bridge Rectifire\Gerber\Bridge Rectifire-B_Mask.gbr'.
+Plotted to 'D:\kicad\Bridge Rectifire\Gerber\Bridge Rectifire-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\Bridge Rectifire\Gerber\Bridge Rectifire-job.gbrjob'.
+Info: Done.
